@@ -1,0 +1,22 @@
+
+
+
+
+
+.nam{
+    text-align: center;
+    background-image: url('../assets/Hero-bg.png');
+    font-size: 48px;
+    margin-top: 5%;
+}
+
+.mamun{
+    font-size: 15px;
+}
+.vi{
+    font-size: 35px;
+    background-color: black;
+    color: aliceblue;
+    height: 40opx;
+    margin: 25px;
+}
